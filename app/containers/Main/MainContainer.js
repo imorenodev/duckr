@@ -1,7 +1,7 @@
 import React from 'react';
 
 const MainContainer = React.createClass({
-  render() {
+  render () {
     return (
       <p>Hello from MainContainer</p>
     );
