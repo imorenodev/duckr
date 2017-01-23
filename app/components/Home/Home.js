@@ -2,7 +2,6 @@ import React, { PropTypes } from 'react';
 import { container, title, slogan } from './styles.css';
 
 Home.propTypes = {
-  
 };
 
 export default function Home (props) {

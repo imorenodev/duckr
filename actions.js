@@ -1,20 +1,20 @@
 // Users
 {
   type: AUTH_USER,
-  uid,
+  uid
 }
 
 {
-  type: UNAUTH_USER,
+  type: UNAUTH_USER
 }
 
 {
-  type: FETCHING_USER,
+  type: FETCHING_USER
 }
 
 {
   type: FETCHING_USER_FAILURE,
-  error: 'Error fetching user.',
+  error: 'Error fetching user.'
 }
 
 {
